@@ -1,6 +1,6 @@
-# Orange-Summer-Challenge
+# Orange Summer Challenge
 
-#  Analyse des Clients Orange
+##  Analyse des Clients Orange
 
 **Nom :** LAYIBE YAYIBE  
 **Prénom :** Narcisse
